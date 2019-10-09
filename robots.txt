@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wothieshoh.listur.com.br/sitemap.xml
